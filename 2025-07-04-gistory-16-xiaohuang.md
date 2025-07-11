@@ -16,7 +16,7 @@ His research spans spatiotemporal big data analysis, urban science, public healt
 **Academic homepage**: [https://www.xiaohuang116.com/](https://www.xiaohuang116.com/)
 
 <p align="center">
-  <img src="https://github.com/AmazingMts/test/640.png" alt="Screenshot of Dr. Xiao Huang's academic website" width="296" height="498" />
+  <img src="[https://github.com/AmazingMts/test/640.pn](https://raw.githubusercontent.com/AmazingMts/test/refs/heads/main/640.png)" alt="Screenshot of Dr. Xiao Huang's academic website" width="296" height="498" />
   <br/>
   <em>Figure 1. Screenshot of Dr. Xiao Huang's academic website</em>
 </p>
