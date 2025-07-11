@@ -1,11 +1,3 @@
----
-title: "GIStory #16 | Xiao Huang: From PhD to Profession, A Versatile Scholar's Journey"
-date: 2025-07-04
-author: "GISphere"
-categories: ["GIStory", "Interview"]
-tags: ["PhD Journey", "Career", "GeoAI"]
----
-
 # GIStory 16 | Xiao Huang: From PhD to Profession, A Versatile Scholar's Journey
 
 ## Guest Introduction
